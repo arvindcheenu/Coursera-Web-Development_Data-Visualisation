@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.16"
+  },
+  {
+    "id": 2,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.07"
+  },
+  {
+    "id": 3,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.44"
+  },
+  {
+    "id": 4,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.13"
+  },
+  {
+    "id": 5,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "10.00"
+  },
+  {
+    "id": 6,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.49"
+  },
+  {
+    "id": 7,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.50"
+  },
+  {
+    "id": 8,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.65"
+  },
+  {
+    "id": 9,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.06"
+  },
+  {
+    "id": 10,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.29"
+  },
+  {
+    "id": 11,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "10.00"
+  },
+  {
+    "id": 12,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.52"
+  },
+  {
+    "id": 13,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.06"
+  },
+  {
+    "id": 14,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.94"
+  },
+  {
+    "id": 15,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.00"
+  },
+  {
+    "id": 16,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.41"
+  },
+  {
+    "id": 17,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "8.50"
+  },
+  {
+    "id": 18,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "9.63"
+  },
+  {
+    "id": 19,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.12"
+  },
+  {
+    "id": 20,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.77"
+  },
+  {
+    "id": 21,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.30"
+  },
+  {
+    "id": 22,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.31"
+  },
+  {
+    "id": 23,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.82"
+  },
+  {
+    "id": 24,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.07"
+  },
+  {
+    "id": 25,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.88"
+  },
+  {
+    "id": 26,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.80"
+  },
+  {
+    "id": 27,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.94"
+  },
+  {
+    "id": 28,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "9.74"
+  },
+  {
+    "id": 29,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "9.93"
+  },
+  {
+    "id": 30,
+    "course": "Data Science",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.21"
+  },
+  {
+    "id": 31,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.49"
+  },
+  {
+    "id": 32,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.52"
+  },
+  {
+    "id": 33,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.59"
+  },
+  {
+    "id": 34,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.71"
+  },
+  {
+    "id": 35,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.80"
+  },
+  {
+    "id": 36,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.33"
+  },
+  {
+    "id": 37,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.28"
+  },
+  {
+    "id": 38,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.78"
+  },
+  {
+    "id": 39,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.37"
+  },
+  {
+    "id": 40,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.54"
+  },
+  {
+    "id": 41,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.77"
+  },
+  {
+    "id": 42,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.02"
+  },
+  {
+    "id": 43,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.75"
+  },
+  {
+    "id": 44,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.82"
+  },
+  {
+    "id": 45,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.99"
+  },
+  {
+    "id": 46,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.44"
+  },
+  {
+    "id": 47,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.01"
+  },
+  {
+    "id": 48,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "9.24"
+  },
+  {
+    "id": 49,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.87"
+  },
+  {
+    "id": 50,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.58"
+  },
+  {
+    "id": 51,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.29"
+  },
+  {
+    "id": 52,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.73"
+  },
+  {
+    "id": 53,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.43"
+  },
+  {
+    "id": 54,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.41"
+  },
+  {
+    "id": 55,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.94"
+  },
+  {
+    "id": 56,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.57"
+  },
+  {
+    "id": 57,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.53"
+  },
+  {
+    "id": 58,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.93"
+  },
+  {
+    "id": 59,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.54"
+  },
+  {
+    "id": 60,
+    "course": "Data Science",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.17"
+  },
+  {
+    "id": 61,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.15"
+  },
+  {
+    "id": 62,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.97"
+  },
+  {
+    "id": 63,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "9.66"
+  },
+  {
+    "id": 64,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.39"
+  },
+  {
+    "id": 65,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.98"
+  },
+  {
+    "id": 66,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.08"
+  },
+  {
+    "id": 67,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.70"
+  },
+  {
+    "id": 68,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.82"
+  },
+  {
+    "id": 69,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.75"
+  },
+  {
+    "id": 70,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.65"
+  },
+  {
+    "id": 71,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "9.62"
+  },
+  {
+    "id": 72,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "9.20"
+  },
+  {
+    "id": 73,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.90"
+  },
+  {
+    "id": 74,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.97"
+  },
+  {
+    "id": 75,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.47"
+  },
+  {
+    "id": 76,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.44"
+  },
+  {
+    "id": 77,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "8.53"
+  },
+  {
+    "id": 78,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.43"
+  },
+  {
+    "id": 79,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.55"
+  },
+  {
+    "id": 80,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.35"
+  },
+  {
+    "id": 81,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.98"
+  },
+  {
+    "id": 82,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.88"
+  },
+  {
+    "id": 83,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.49"
+  },
+  {
+    "id": 84,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.21"
+  },
+  {
+    "id": 85,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "9.13"
+  },
+  {
+    "id": 86,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.68"
+  },
+  {
+    "id": 87,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.69"
+  },
+  {
+    "id": 88,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.92"
+  },
+  {
+    "id": 89,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.69"
+  },
+  {
+    "id": 90,
+    "course": "Data Science",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "8.48"
+  },
+  {
+    "id": 91,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.77"
+  },
+  {
+    "id": 92,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.72"
+  },
+  {
+    "id": 93,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.11"
+  },
+  {
+    "id": 94,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.98"
+  },
+  {
+    "id": 95,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.54"
+  },
+  {
+    "id": 96,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.10"
+  },
+  {
+    "id": 97,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.55"
+  },
+  {
+    "id": 98,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.54"
+  },
+  {
+    "id": 99,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.69"
+  },
+  {
+    "id": 100,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.92"
+  },
+  {
+    "id": 101,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.47"
+  },
+  {
+    "id": 102,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.25"
+  },
+  {
+    "id": 103,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.83"
+  },
+  {
+    "id": 104,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.24"
+  },
+  {
+    "id": 105,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.46"
+  },
+  {
+    "id": 106,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.41"
+  },
+  {
+    "id": 107,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.35"
+  },
+  {
+    "id": 108,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "9.07"
+  },
+  {
+    "id": 109,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.03"
+  },
+  {
+    "id": 110,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "8.45"
+  },
+  {
+    "id": 111,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.34"
+  },
+  {
+    "id": 112,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.04"
+  },
+  {
+    "id": 113,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.34"
+  },
+  {
+    "id": 114,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.01"
+  },
+  {
+    "id": 115,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.37"
+  },
+  {
+    "id": 116,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.89"
+  },
+  {
+    "id": 117,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.40"
+  },
+  {
+    "id": 118,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.16"
+  },
+  {
+    "id": 119,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "9.99"
+  },
+  {
+    "id": 120,
+    "course": "Data Science",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.62"
+  },
+  {
+    "id": 121,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.97"
+  },
+  {
+    "id": 122,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.24"
+  },
+  {
+    "id": 123,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.16"
+  },
+  {
+    "id": 124,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "8.88"
+  },
+  {
+    "id": 125,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.57"
+  },
+  {
+    "id": 126,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.06"
+  },
+  {
+    "id": 127,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.50"
+  },
+  {
+    "id": 128,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.19"
+  },
+  {
+    "id": 129,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.69"
+  },
+  {
+    "id": 130,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.86"
+  },
+  {
+    "id": 131,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.90"
+  },
+  {
+    "id": 132,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.91"
+  },
+  {
+    "id": 133,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.82"
+  },
+  {
+    "id": 134,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.68"
+  },
+  {
+    "id": 135,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.96"
+  },
+  {
+    "id": 136,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.55"
+  },
+  {
+    "id": 137,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.11"
+  },
+  {
+    "id": 138,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.44"
+  },
+  {
+    "id": 139,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.53"
+  },
+  {
+    "id": 140,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.90"
+  },
+  {
+    "id": 141,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.09"
+  },
+  {
+    "id": 142,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.78"
+  },
+  {
+    "id": 143,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.76"
+  },
+  {
+    "id": 144,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.19"
+  },
+  {
+    "id": 145,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "9.90"
+  },
+  {
+    "id": 146,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.35"
+  },
+  {
+    "id": 147,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.32"
+  },
+  {
+    "id": 148,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "9.95"
+  },
+  {
+    "id": 149,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.22"
+  },
+  {
+    "id": 150,
+    "course": "Data Science",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.53"
+  },
+  {
+    "id": 151,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.44"
+  },
+  {
+    "id": 152,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.00"
+  },
+  {
+    "id": 153,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.22"
+  },
+  {
+    "id": 154,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.02"
+  },
+  {
+    "id": 155,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.15"
+  },
+  {
+    "id": 156,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.62"
+  },
+  {
+    "id": 157,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.99"
+  },
+  {
+    "id": 158,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.43"
+  },
+  {
+    "id": 159,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.55"
+  },
+  {
+    "id": 160,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.23"
+  },
+  {
+    "id": 161,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.69"
+  },
+  {
+    "id": 162,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "9.17"
+  },
+  {
+    "id": 163,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.65"
+  },
+  {
+    "id": 164,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.74"
+  },
+  {
+    "id": 165,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.43"
+  },
+  {
+    "id": 166,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.07"
+  },
+  {
+    "id": 167,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.49"
+  },
+  {
+    "id": 168,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.15"
+  },
+  {
+    "id": 169,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.92"
+  },
+  {
+    "id": 170,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.72"
+  },
+  {
+    "id": 171,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.70"
+  },
+  {
+    "id": 172,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.79"
+  },
+  {
+    "id": 173,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.04"
+  },
+  {
+    "id": 174,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.24"
+  },
+  {
+    "id": 175,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.81"
+  },
+  {
+    "id": 176,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.98"
+  },
+  {
+    "id": 177,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.68"
+  },
+  {
+    "id": 178,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.09"
+  },
+  {
+    "id": 179,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.06"
+  },
+  {
+    "id": 180,
+    "course": "Graphic Design",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.17"
+  },
+  {
+    "id": 181,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.63"
+  },
+  {
+    "id": 182,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.12"
+  },
+  {
+    "id": 183,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "9.82"
+  },
+  {
+    "id": 184,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.17"
+  },
+  {
+    "id": 185,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.73"
+  },
+  {
+    "id": 186,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.43"
+  },
+  {
+    "id": 187,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.52"
+  },
+  {
+    "id": 188,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.51"
+  },
+  {
+    "id": 189,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.06"
+  },
+  {
+    "id": 190,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.65"
+  },
+  {
+    "id": 191,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.63"
+  },
+  {
+    "id": 192,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.46"
+  },
+  {
+    "id": 193,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.46"
+  },
+  {
+    "id": 194,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.44"
+  },
+  {
+    "id": 195,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.42"
+  },
+  {
+    "id": 196,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.56"
+  },
+  {
+    "id": 197,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.97"
+  },
+  {
+    "id": 198,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.51"
+  },
+  {
+    "id": 199,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.62"
+  },
+  {
+    "id": 200,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.75"
+  },
+  {
+    "id": 201,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.43"
+  },
+  {
+    "id": 202,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.34"
+  },
+  {
+    "id": 203,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.83"
+  },
+  {
+    "id": 204,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.84"
+  },
+  {
+    "id": 205,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.41"
+  },
+  {
+    "id": 206,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.39"
+  },
+  {
+    "id": 207,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.16"
+  },
+  {
+    "id": 208,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.85"
+  },
+  {
+    "id": 209,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.19"
+  },
+  {
+    "id": 210,
+    "course": "Graphic Design",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.48"
+  },
+  {
+    "id": 211,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.12"
+  },
+  {
+    "id": 212,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.04"
+  },
+  {
+    "id": 213,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "9.09"
+  },
+  {
+    "id": 214,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.60"
+  },
+  {
+    "id": 215,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.88"
+  },
+  {
+    "id": 216,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.33"
+  },
+  {
+    "id": 217,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.54"
+  },
+  {
+    "id": 218,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.54"
+  },
+  {
+    "id": 219,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.03"
+  },
+  {
+    "id": 220,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.75"
+  },
+  {
+    "id": 221,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.89"
+  },
+  {
+    "id": 222,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.45"
+  },
+  {
+    "id": 223,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.95"
+  },
+  {
+    "id": 224,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.40"
+  },
+  {
+    "id": 225,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.13"
+  },
+  {
+    "id": 226,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.66"
+  },
+  {
+    "id": 227,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "8.37"
+  },
+  {
+    "id": 228,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.92"
+  },
+  {
+    "id": 229,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.22"
+  },
+  {
+    "id": 230,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.63"
+  },
+  {
+    "id": 231,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.39"
+  },
+  {
+    "id": 232,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.75"
+  },
+  {
+    "id": 233,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.90"
+  },
+  {
+    "id": 234,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.68"
+  },
+  {
+    "id": 235,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.91"
+  },
+  {
+    "id": 236,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.08"
+  },
+  {
+    "id": 237,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.43"
+  },
+  {
+    "id": 238,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.76"
+  },
+  {
+    "id": 239,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.78"
+  },
+  {
+    "id": 240,
+    "course": "Graphic Design",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.45"
+  },
+  {
+    "id": 241,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.13"
+  },
+  {
+    "id": 242,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.09"
+  },
+  {
+    "id": 243,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.77"
+  },
+  {
+    "id": 244,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.58"
+  },
+  {
+    "id": 245,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.93"
+  },
+  {
+    "id": 246,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.48"
+  },
+  {
+    "id": 247,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.72"
+  },
+  {
+    "id": 248,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.25"
+  },
+  {
+    "id": 249,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.20"
+  },
+  {
+    "id": 250,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.97"
+  },
+  {
+    "id": 251,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.81"
+  },
+  {
+    "id": 252,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "9.43"
+  },
+  {
+    "id": 253,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.96"
+  },
+  {
+    "id": 254,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.72"
+  },
+  {
+    "id": 255,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.34"
+  },
+  {
+    "id": 256,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.84"
+  },
+  {
+    "id": 257,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.32"
+  },
+  {
+    "id": 258,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.99"
+  },
+  {
+    "id": 259,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.02"
+  },
+  {
+    "id": 260,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.88"
+  },
+  {
+    "id": 261,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.64"
+  },
+  {
+    "id": 262,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.77"
+  },
+  {
+    "id": 263,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.18"
+  },
+  {
+    "id": 264,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.14"
+  },
+  {
+    "id": 265,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.88"
+  },
+  {
+    "id": 266,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.42"
+  },
+  {
+    "id": 267,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.48"
+  },
+  {
+    "id": 268,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "9.82"
+  },
+  {
+    "id": 269,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.13"
+  },
+  {
+    "id": 270,
+    "course": "Graphic Design",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.00"
+  },
+  {
+    "id": 271,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.31"
+  },
+  {
+    "id": 272,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.84"
+  },
+  {
+    "id": 273,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.16"
+  },
+  {
+    "id": 274,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.79"
+  },
+  {
+    "id": 275,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.33"
+  },
+  {
+    "id": 276,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.40"
+  },
+  {
+    "id": 277,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "8.10"
+  },
+  {
+    "id": 278,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.16"
+  },
+  {
+    "id": 279,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.24"
+  },
+  {
+    "id": 280,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.51"
+  },
+  {
+    "id": 281,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "9.07"
+  },
+  {
+    "id": 282,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.99"
+  },
+  {
+    "id": 283,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "9.32"
+  },
+  {
+    "id": 284,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.97"
+  },
+  {
+    "id": 285,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.41"
+  },
+  {
+    "id": 286,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.42"
+  },
+  {
+    "id": 287,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.09"
+  },
+  {
+    "id": 288,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.69"
+  },
+  {
+    "id": 289,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.87"
+  },
+  {
+    "id": 290,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.22"
+  },
+  {
+    "id": 291,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.65"
+  },
+  {
+    "id": 292,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.61"
+  },
+  {
+    "id": 293,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.59"
+  },
+  {
+    "id": 294,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.88"
+  },
+  {
+    "id": 295,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.42"
+  },
+  {
+    "id": 296,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.88"
+  },
+  {
+    "id": 297,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.57"
+  },
+  {
+    "id": 298,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.61"
+  },
+  {
+    "id": 299,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.13"
+  },
+  {
+    "id": 300,
+    "course": "Graphic Design",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.56"
+  },
+  {
+    "id": 301,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.67"
+  },
+  {
+    "id": 302,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.86"
+  },
+  {
+    "id": 303,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.88"
+  },
+  {
+    "id": 304,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.70"
+  },
+  {
+    "id": 305,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.00"
+  },
+  {
+    "id": 306,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.06"
+  },
+  {
+    "id": 307,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "8.51"
+  },
+  {
+    "id": 308,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.87"
+  },
+  {
+    "id": 309,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.83"
+  },
+  {
+    "id": 310,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.59"
+  },
+  {
+    "id": 311,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "9.24"
+  },
+  {
+    "id": 312,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.63"
+  },
+  {
+    "id": 313,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.26"
+  },
+  {
+    "id": 314,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.28"
+  },
+  {
+    "id": 315,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.63"
+  },
+  {
+    "id": 316,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.48"
+  },
+  {
+    "id": 317,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.05"
+  },
+  {
+    "id": 318,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "9.43"
+  },
+  {
+    "id": 319,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.11"
+  },
+  {
+    "id": 320,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.34"
+  },
+  {
+    "id": 321,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.86"
+  },
+  {
+    "id": 322,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.55"
+  },
+  {
+    "id": 323,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.46"
+  },
+  {
+    "id": 324,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.41"
+  },
+  {
+    "id": 325,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "9.47"
+  },
+  {
+    "id": 326,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.62"
+  },
+  {
+    "id": 327,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.65"
+  },
+  {
+    "id": 328,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.81"
+  },
+  {
+    "id": 329,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.68"
+  },
+  {
+    "id": 330,
+    "course": "Machine Learning",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.79"
+  },
+  {
+    "id": 331,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.55"
+  },
+  {
+    "id": 332,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.85"
+  },
+  {
+    "id": 333,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.42"
+  },
+  {
+    "id": 334,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.26"
+  },
+  {
+    "id": 335,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.21"
+  },
+  {
+    "id": 336,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.41"
+  },
+  {
+    "id": 337,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.02"
+  },
+  {
+    "id": 338,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.03"
+  },
+  {
+    "id": 339,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.09"
+  },
+  {
+    "id": 340,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.95"
+  },
+  {
+    "id": 341,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "9.33"
+  },
+  {
+    "id": 342,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.68"
+  },
+  {
+    "id": 343,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.40"
+  },
+  {
+    "id": 344,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.40"
+  },
+  {
+    "id": 345,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.46"
+  },
+  {
+    "id": 346,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.66"
+  },
+  {
+    "id": 347,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.71"
+  },
+  {
+    "id": 348,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.94"
+  },
+  {
+    "id": 349,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.67"
+  },
+  {
+    "id": 350,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.63"
+  },
+  {
+    "id": 351,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.31"
+  },
+  {
+    "id": 352,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.83"
+  },
+  {
+    "id": 353,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.01"
+  },
+  {
+    "id": 354,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.90"
+  },
+  {
+    "id": 355,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.67"
+  },
+  {
+    "id": 356,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.61"
+  },
+  {
+    "id": 357,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.22"
+  },
+  {
+    "id": 358,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.52"
+  },
+  {
+    "id": 359,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.77"
+  },
+  {
+    "id": 360,
+    "course": "Machine Learning",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.76"
+  },
+  {
+    "id": 361,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.56"
+  },
+  {
+    "id": 362,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.20"
+  },
+  {
+    "id": 363,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "9.07"
+  },
+  {
+    "id": 364,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.53"
+  },
+  {
+    "id": 365,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.41"
+  },
+  {
+    "id": 366,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "10.00"
+  },
+  {
+    "id": 367,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "8.74"
+  },
+  {
+    "id": 368,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "10.00"
+  },
+  {
+    "id": 369,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.49"
+  },
+  {
+    "id": 370,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.83"
+  },
+  {
+    "id": 371,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.11"
+  },
+  {
+    "id": 372,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.93"
+  },
+  {
+    "id": 373,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.79"
+  },
+  {
+    "id": 374,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.30"
+  },
+  {
+    "id": 375,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.71"
+  },
+  {
+    "id": 376,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.71"
+  },
+  {
+    "id": 377,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.90"
+  },
+  {
+    "id": 378,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.48"
+  },
+  {
+    "id": 379,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.45"
+  },
+  {
+    "id": 380,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.74"
+  },
+  {
+    "id": 381,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.23"
+  },
+  {
+    "id": 382,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.70"
+  },
+  {
+    "id": 383,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.63"
+  },
+  {
+    "id": 384,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.79"
+  },
+  {
+    "id": 385,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.75"
+  },
+  {
+    "id": 386,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.84"
+  },
+  {
+    "id": 387,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.38"
+  },
+  {
+    "id": 388,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.29"
+  },
+  {
+    "id": 389,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.08"
+  },
+  {
+    "id": 390,
+    "course": "Machine Learning",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.88"
+  },
+  {
+    "id": 391,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.46"
+  },
+  {
+    "id": 392,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.71"
+  },
+  {
+    "id": 393,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.25"
+  },
+  {
+    "id": 394,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.69"
+  },
+  {
+    "id": 395,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.98"
+  },
+  {
+    "id": 396,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.25"
+  },
+  {
+    "id": 397,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.79"
+  },
+  {
+    "id": 398,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.45"
+  },
+  {
+    "id": 399,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.01"
+  },
+  {
+    "id": 400,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.17"
+  },
+  {
+    "id": 401,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.38"
+  },
+  {
+    "id": 402,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.54"
+  },
+  {
+    "id": 403,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "9.80"
+  },
+  {
+    "id": 404,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.80"
+  },
+  {
+    "id": 405,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.39"
+  },
+  {
+    "id": 406,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.81"
+  },
+  {
+    "id": 407,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.39"
+  },
+  {
+    "id": 408,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.84"
+  },
+  {
+    "id": 409,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.86"
+  },
+  {
+    "id": 410,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.68"
+  },
+  {
+    "id": 411,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.15"
+  },
+  {
+    "id": 412,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.54"
+  },
+  {
+    "id": 413,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "9.73"
+  },
+  {
+    "id": 414,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.54"
+  },
+  {
+    "id": 415,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.87"
+  },
+  {
+    "id": 416,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.01"
+  },
+  {
+    "id": 417,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.18"
+  },
+  {
+    "id": 418,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.24"
+  },
+  {
+    "id": 419,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.61"
+  },
+  {
+    "id": 420,
+    "course": "Machine Learning",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "8.50"
+  },
+  {
+    "id": 421,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.20"
+  },
+  {
+    "id": 422,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.22"
+  },
+  {
+    "id": 423,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.91"
+  },
+  {
+    "id": 424,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.72"
+  },
+  {
+    "id": 425,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.76"
+  },
+  {
+    "id": 426,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.83"
+  },
+  {
+    "id": 427,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.84"
+  },
+  {
+    "id": 428,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.68"
+  },
+  {
+    "id": 429,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.99"
+  },
+  {
+    "id": 430,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.24"
+  },
+  {
+    "id": 431,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.47"
+  },
+  {
+    "id": 432,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.85"
+  },
+  {
+    "id": 433,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.05"
+  },
+  {
+    "id": 434,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.44"
+  },
+  {
+    "id": 435,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.80"
+  },
+  {
+    "id": 436,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.57"
+  },
+  {
+    "id": 437,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.93"
+  },
+  {
+    "id": 438,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.11"
+  },
+  {
+    "id": 439,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.84"
+  },
+  {
+    "id": 440,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.04"
+  },
+  {
+    "id": 441,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.47"
+  },
+  {
+    "id": 442,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.50"
+  },
+  {
+    "id": 443,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.80"
+  },
+  {
+    "id": 444,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.08"
+  },
+  {
+    "id": 445,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.43"
+  },
+  {
+    "id": 446,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.53"
+  },
+  {
+    "id": 447,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.21"
+  },
+  {
+    "id": 448,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.58"
+  },
+  {
+    "id": 449,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.74"
+  },
+  {
+    "id": 450,
+    "course": "Machine Learning",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.34"
+  },
+  {
+    "id": 451,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.56"
+  },
+  {
+    "id": 452,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.76"
+  },
+  {
+    "id": 453,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.29"
+  },
+  {
+    "id": 454,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.12"
+  },
+  {
+    "id": 455,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.31"
+  },
+  {
+    "id": 456,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.14"
+  },
+  {
+    "id": 457,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "8.09"
+  },
+  {
+    "id": 458,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.64"
+  },
+  {
+    "id": 459,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.62"
+  },
+  {
+    "id": 460,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.21"
+  },
+  {
+    "id": 461,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "9.24"
+  },
+  {
+    "id": 462,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.70"
+  },
+  {
+    "id": 463,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.96"
+  },
+  {
+    "id": 464,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.48"
+  },
+  {
+    "id": 465,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.83"
+  },
+  {
+    "id": 466,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.25"
+  },
+  {
+    "id": 467,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "8.95"
+  },
+  {
+    "id": 468,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.82"
+  },
+  {
+    "id": 469,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.60"
+  },
+  {
+    "id": 470,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.74"
+  },
+  {
+    "id": 471,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.71"
+  },
+  {
+    "id": 472,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.23"
+  },
+  {
+    "id": 473,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.28"
+  },
+  {
+    "id": 474,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.84"
+  },
+  {
+    "id": 475,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "9.32"
+  },
+  {
+    "id": 476,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.98"
+  },
+  {
+    "id": 477,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.59"
+  },
+  {
+    "id": 478,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.96"
+  },
+  {
+    "id": 479,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.03"
+  },
+  {
+    "id": 480,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.32"
+  },
+  {
+    "id": 481,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.63"
+  },
+  {
+    "id": 482,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.58"
+  },
+  {
+    "id": 483,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.23"
+  },
+  {
+    "id": 484,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.38"
+  },
+  {
+    "id": 485,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.36"
+  },
+  {
+    "id": 486,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.72"
+  },
+  {
+    "id": 487,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.01"
+  },
+  {
+    "id": 488,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.56"
+  },
+  {
+    "id": 489,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.30"
+  },
+  {
+    "id": 490,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.99"
+  },
+  {
+    "id": 491,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.41"
+  },
+  {
+    "id": 492,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.07"
+  },
+  {
+    "id": 493,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.85"
+  },
+  {
+    "id": 494,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.80"
+  },
+  {
+    "id": 495,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.40"
+  },
+  {
+    "id": 496,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.23"
+  },
+  {
+    "id": 497,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.88"
+  },
+  {
+    "id": 498,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "9.11"
+  },
+  {
+    "id": 499,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.88"
+  },
+  {
+    "id": 500,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "8.60"
+  },
+  {
+    "id": 501,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.46"
+  },
+  {
+    "id": 502,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.03"
+  },
+  {
+    "id": 503,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.89"
+  },
+  {
+    "id": 504,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "8.98"
+  },
+  {
+    "id": 505,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.78"
+  },
+  {
+    "id": 506,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.68"
+  },
+  {
+    "id": 507,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.11"
+  },
+  {
+    "id": 508,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.49"
+  },
+  {
+    "id": 509,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.71"
+  },
+  {
+    "id": 510,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.43"
+  },
+  {
+    "id": 511,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.41"
+  },
+  {
+    "id": 512,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.66"
+  },
+  {
+    "id": 513,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.46"
+  },
+  {
+    "id": 514,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "8.10"
+  },
+  {
+    "id": 515,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.81"
+  },
+  {
+    "id": 516,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.20"
+  },
+  {
+    "id": 517,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.51"
+  },
+  {
+    "id": 518,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.92"
+  },
+  {
+    "id": 519,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.01"
+  },
+  {
+    "id": 520,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.47"
+  },
+  {
+    "id": 521,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.51"
+  },
+  {
+    "id": 522,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.70"
+  },
+  {
+    "id": 523,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.25"
+  },
+  {
+    "id": 524,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.64"
+  },
+  {
+    "id": 525,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.67"
+  },
+  {
+    "id": 526,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.04"
+  },
+  {
+    "id": 527,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.60"
+  },
+  {
+    "id": 528,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.83"
+  },
+  {
+    "id": 529,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.50"
+  },
+  {
+    "id": 530,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "8.36"
+  },
+  {
+    "id": 531,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.76"
+  },
+  {
+    "id": 532,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.70"
+  },
+  {
+    "id": 533,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.62"
+  },
+  {
+    "id": 534,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.20"
+  },
+  {
+    "id": 535,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.46"
+  },
+  {
+    "id": 536,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "10.00"
+  },
+  {
+    "id": 537,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.21"
+  },
+  {
+    "id": 538,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.17"
+  },
+  {
+    "id": 539,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.36"
+  },
+  {
+    "id": 540,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.60"
+  },
+  {
+    "id": 541,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.38"
+  },
+  {
+    "id": 542,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.52"
+  },
+  {
+    "id": 543,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.20"
+  },
+  {
+    "id": 544,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.62"
+  },
+  {
+    "id": 545,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "7.59"
+  },
+  {
+    "id": 546,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.21"
+  },
+  {
+    "id": 547,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "8.00"
+  },
+  {
+    "id": 548,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.88"
+  },
+  {
+    "id": 549,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.55"
+  },
+  {
+    "id": 550,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.72"
+  },
+  {
+    "id": 551,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.62"
+  },
+  {
+    "id": 552,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "9.78"
+  },
+  {
+    "id": 553,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.07"
+  },
+  {
+    "id": 554,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.30"
+  },
+  {
+    "id": 555,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.97"
+  },
+  {
+    "id": 556,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.09"
+  },
+  {
+    "id": 557,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.25"
+  },
+  {
+    "id": 558,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.22"
+  },
+  {
+    "id": 559,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.61"
+  },
+  {
+    "id": 560,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.10"
+  },
+  {
+    "id": 561,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.86"
+  },
+  {
+    "id": 562,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.63"
+  },
+  {
+    "id": 563,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.00"
+  },
+  {
+    "id": 564,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.58"
+  },
+  {
+    "id": 565,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.31"
+  },
+  {
+    "id": 566,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.06"
+  },
+  {
+    "id": 567,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.22"
+  },
+  {
+    "id": 568,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "9.33"
+  },
+  {
+    "id": 569,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.20"
+  },
+  {
+    "id": 570,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.34"
+  },
+  {
+    "id": 571,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.62"
+  },
+  {
+    "id": 572,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "8.77"
+  },
+  {
+    "id": 573,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.61"
+  },
+  {
+    "id": 574,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "8.48"
+  },
+  {
+    "id": 575,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.53"
+  },
+  {
+    "id": 576,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.25"
+  },
+  {
+    "id": 577,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.99"
+  },
+  {
+    "id": 578,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.15"
+  },
+  {
+    "id": 579,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.08"
+  },
+  {
+    "id": 580,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.83"
+  },
+  {
+    "id": 581,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.29"
+  },
+  {
+    "id": 582,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.89"
+  },
+  {
+    "id": 583,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.97"
+  },
+  {
+    "id": 584,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.26"
+  },
+  {
+    "id": 585,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.37"
+  },
+  {
+    "id": 586,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.75"
+  },
+  {
+    "id": 587,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.18"
+  },
+  {
+    "id": 588,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.87"
+  },
+  {
+    "id": 589,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.87"
+  },
+  {
+    "id": 590,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.21"
+  },
+  {
+    "id": 591,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.92"
+  },
+  {
+    "id": 592,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.43"
+  },
+  {
+    "id": 593,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.66"
+  },
+  {
+    "id": 594,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.60"
+  },
+  {
+    "id": 595,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.65"
+  },
+  {
+    "id": 596,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.37"
+  },
+  {
+    "id": 597,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "7.84"
+  },
+  {
+    "id": 598,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.64"
+  },
+  {
+    "id": 599,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "9.39"
+  },
+  {
+    "id": 600,
+    "course": "An Introduction to Interactive Programming in Python",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.14"
+  },
+  {
+    "id": 601,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.97"
+  },
+  {
+    "id": 602,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.49"
+  },
+  {
+    "id": 603,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.60"
+  },
+  {
+    "id": 604,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "8.63"
+  },
+  {
+    "id": 605,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.83"
+  },
+  {
+    "id": 606,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.83"
+  },
+  {
+    "id": 607,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.80"
+  },
+  {
+    "id": 608,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.23"
+  },
+  {
+    "id": 609,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "8.17"
+  },
+  {
+    "id": 610,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.27"
+  },
+  {
+    "id": 611,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.54"
+  },
+  {
+    "id": 612,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.62"
+  },
+  {
+    "id": 613,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.90"
+  },
+  {
+    "id": 614,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.89"
+  },
+  {
+    "id": 615,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.01"
+  },
+  {
+    "id": 616,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "8.17"
+  },
+  {
+    "id": 617,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.16"
+  },
+  {
+    "id": 618,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.24"
+  },
+  {
+    "id": 619,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.99"
+  },
+  {
+    "id": 620,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "9.60"
+  },
+  {
+    "id": 621,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.99"
+  },
+  {
+    "id": 622,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.62"
+  },
+  {
+    "id": 623,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.62"
+  },
+  {
+    "id": 624,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.04"
+  },
+  {
+    "id": 625,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.83"
+  },
+  {
+    "id": 626,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "9.15"
+  },
+  {
+    "id": 627,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.91"
+  },
+  {
+    "id": 628,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "8.24"
+  },
+  {
+    "id": 629,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "8.50"
+  },
+  {
+    "id": 630,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr James Ohene-Djan",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "9.14"
+  },
+  {
+    "id": 631,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.19"
+  },
+  {
+    "id": 632,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "7.19"
+  },
+  {
+    "id": 633,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "7.45"
+  },
+  {
+    "id": 634,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.65"
+  },
+  {
+    "id": 635,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.50"
+  },
+  {
+    "id": 636,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.75"
+  },
+  {
+    "id": 637,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.58"
+  },
+  {
+    "id": 638,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.78"
+  },
+  {
+    "id": 639,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.80"
+  },
+  {
+    "id": 640,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.39"
+  },
+  {
+    "id": 641,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.82"
+  },
+  {
+    "id": 642,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "9.73"
+  },
+  {
+    "id": 643,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "7.11"
+  },
+  {
+    "id": 644,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.89"
+  },
+  {
+    "id": 645,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.18"
+  },
+  {
+    "id": 646,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.38"
+  },
+  {
+    "id": 647,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "9.88"
+  },
+  {
+    "id": 648,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "9.12"
+  },
+  {
+    "id": 649,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "7.49"
+  },
+  {
+    "id": 650,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.82"
+  },
+  {
+    "id": 651,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "7.34"
+  },
+  {
+    "id": 652,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "8.71"
+  },
+  {
+    "id": 653,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.20"
+  },
+  {
+    "id": 654,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.19"
+  },
+  {
+    "id": 655,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "9.90"
+  },
+  {
+    "id": 656,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.14"
+  },
+  {
+    "id": 657,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.30"
+  },
+  {
+    "id": 658,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.19"
+  },
+  {
+    "id": 659,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.99"
+  },
+  {
+    "id": 660,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Kate Devlin",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.57"
+  },
+  {
+    "id": 661,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.91"
+  },
+  {
+    "id": 662,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.75"
+  },
+  {
+    "id": 663,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "9.91"
+  },
+  {
+    "id": 664,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.23"
+  },
+  {
+    "id": 665,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "8.54"
+  },
+  {
+    "id": 666,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.57"
+  },
+  {
+    "id": 667,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "8.46"
+  },
+  {
+    "id": 668,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "7.30"
+  },
+  {
+    "id": 669,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "9.14"
+  },
+  {
+    "id": 670,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "9.43"
+  },
+  {
+    "id": 671,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "9.66"
+  },
+  {
+    "id": 672,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "7.88"
+  },
+  {
+    "id": 673,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "9.47"
+  },
+  {
+    "id": 674,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "9.52"
+  },
+  {
+    "id": 675,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "9.14"
+  },
+  {
+    "id": 676,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.05"
+  },
+  {
+    "id": 677,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.70"
+  },
+  {
+    "id": 678,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.89"
+  },
+  {
+    "id": 679,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "8.53"
+  },
+  {
+    "id": 680,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "8.03"
+  },
+  {
+    "id": 681,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "8.13"
+  },
+  {
+    "id": 682,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.66"
+  },
+  {
+    "id": 683,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.03"
+  },
+  {
+    "id": 684,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.85"
+  },
+  {
+    "id": 685,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "8.94"
+  },
+  {
+    "id": 686,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "7.78"
+  },
+  {
+    "id": 687,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.62"
+  },
+  {
+    "id": 688,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "7.37"
+  },
+  {
+    "id": 689,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.34"
+  },
+  {
+    "id": 690,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr Mick Grierson",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.22"
+  },
+  {
+    "id": 691,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "8.87"
+  },
+  {
+    "id": 692,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.42"
+  },
+  {
+    "id": 693,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "8.56"
+  },
+  {
+    "id": 694,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "7.76"
+  },
+  {
+    "id": 695,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "9.39"
+  },
+  {
+    "id": 696,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "9.02"
+  },
+  {
+    "id": 697,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "9.00"
+  },
+  {
+    "id": 698,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "8.16"
+  },
+  {
+    "id": 699,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.50"
+  },
+  {
+    "id": 700,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "7.14"
+  },
+  {
+    "id": 701,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "8.66"
+  },
+  {
+    "id": 702,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.01"
+  },
+  {
+    "id": 703,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "8.04"
+  },
+  {
+    "id": 704,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "8.79"
+  },
+  {
+    "id": 705,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "7.77"
+  },
+  {
+    "id": 706,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "9.57"
+  },
+  {
+    "id": 707,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "8.10"
+  },
+  {
+    "id": 708,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "8.97"
+  },
+  {
+    "id": 709,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.93"
+  },
+  {
+    "id": 710,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "7.26"
+  },
+  {
+    "id": 711,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.16"
+  },
+  {
+    "id": 712,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "7.06"
+  },
+  {
+    "id": 713,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "7.81"
+  },
+  {
+    "id": 714,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "9.74"
+  },
+  {
+    "id": 715,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "7.30"
+  },
+  {
+    "id": 716,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.16"
+  },
+  {
+    "id": 717,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "8.29"
+  },
+  {
+    "id": 718,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "9.89"
+  },
+  {
+    "id": 719,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "9.43"
+  },
+  {
+    "id": 720,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Marco Gilles",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "8.84"
+  },
+  {
+    "id": 721,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.60"
+  },
+  {
+    "id": 722,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Brian Taylor",
+    "grade": "9.62"
+  },
+  {
+    "id": 723,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Wong To",
+    "grade": "9.50"
+  },
+  {
+    "id": 724,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Alex Mason",
+    "grade": "9.31"
+  },
+  {
+    "id": 725,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Computer Science",
+    "student": "Maya Andrew",
+    "grade": "8.99"
+  },
+  {
+    "id": 726,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Arvind Srinivasan",
+    "grade": "7.62"
+  },
+  {
+    "id": 727,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Brian Taylor",
+    "grade": "7.59"
+  },
+  {
+    "id": 728,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Wong To",
+    "grade": "9.45"
+  },
+  {
+    "id": 729,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Alex Mason",
+    "grade": "7.88"
+  },
+  {
+    "id": 730,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Data Science",
+    "student": "Maya Andrew",
+    "grade": "8.99"
+  },
+  {
+    "id": 731,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Arvind Srinivasan",
+    "grade": "7.66"
+  },
+  {
+    "id": 732,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Brian Taylor",
+    "grade": "8.65"
+  },
+  {
+    "id": 733,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Wong To",
+    "grade": "9.68"
+  },
+  {
+    "id": 734,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Alex Mason",
+    "grade": "7.66"
+  },
+  {
+    "id": 735,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Visual Design",
+    "student": "Maya Andrew",
+    "grade": "8.47"
+  },
+  {
+    "id": 736,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Arvind Srinivasan",
+    "grade": "7.45"
+  },
+  {
+    "id": 737,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Brian Taylor",
+    "grade": "7.61"
+  },
+  {
+    "id": 738,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Wong To",
+    "grade": "7.47"
+  },
+  {
+    "id": 739,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Alex Mason",
+    "grade": "9.09"
+  },
+  {
+    "id": 740,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Algorithms",
+    "student": "Maya Andrew",
+    "grade": "8.55"
+  },
+  {
+    "id": 741,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Arvind Srinivasan",
+    "grade": "9.84"
+  },
+  {
+    "id": 742,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Brian Taylor",
+    "grade": "9.59"
+  },
+  {
+    "id": 743,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Wong To",
+    "grade": "8.76"
+  },
+  {
+    "id": 744,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Alex Mason",
+    "grade": "7.24"
+  },
+  {
+    "id": 745,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Robotics",
+    "student": "Maya Andrew",
+    "grade": "9.60"
+  },
+  {
+    "id": 746,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Arvind Srinivasan",
+    "grade": "8.95"
+  },
+  {
+    "id": 747,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Brian Taylor",
+    "grade": "9.65"
+  },
+  {
+    "id": 748,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Wong To",
+    "grade": "9.37"
+  },
+  {
+    "id": 749,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Alex Mason",
+    "grade": "7.70"
+  },
+  {
+    "id": 750,
+    "course": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+    "faculty": "Dr.Matthew-Yee-King",
+    "subject": "Digital Arts",
+    "student": "Maya Andrew",
+    "grade": "7.60"
+  }
+]
